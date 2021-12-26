@@ -1,0 +1,5 @@
+.gcloudignore
+.git
+/.idea/
+__pycache__/
+/setup.cfg

@@ -1,0 +1,12 @@
+Django
+Pillow
+
+#code style and improvements
+pre-commit
+Unipath
+
+#Secrets
+python-decouple
+
+# Storage
+psycopg2

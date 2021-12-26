@@ -1,0 +1,4 @@
+cron:
+- description: "monthly bills generation"
+  url: /mortuary/generate_bills_for_monthly_clients/
+  schedule: 1 of month 07:00

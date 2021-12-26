@@ -1,0 +1,151 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-04-25 16:41-0300\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "address"
+msgstr "dirección"
+
+msgid "amount"
+msgstr "cantidad"
+
+msgid "assigned vendor"
+msgstr "vendedor asignado"
+
+msgid "bank account information"
+msgstr "información de cuenta bancaria"
+
+msgid "bill"
+msgstr "factura"
+
+msgid "bill line"
+msgstr "línea de factura"
+
+msgid "birthdate"
+msgstr "fecha de nacimiento"
+
+msgid "buy price"
+msgstr "precio de compra"
+
+msgid "client"
+msgstr "cliente"
+
+msgid "client bill"
+msgstr "factura de cliente"
+
+msgid "client taxes percentage"
+msgstr "porcentaje de impuestos de cliente"
+
+msgid "company name"
+msgstr "nombre de empresa"
+
+msgid "created at"
+msgstr "Creado el"
+
+msgid "date"
+msgstr "fecha"
+
+msgid "document"
+msgstr "documento"
+
+msgid "gun"
+msgstr "arma"
+
+msgid "guns"
+msgstr "armas"
+
+msgid "image"
+msgstr "imagen"
+
+msgid "internal notes"
+msgstr "notas internas"
+
+msgid "internal reference"
+msgstr "referencia interna"
+
+msgid "lastname"
+msgstr "apellido"
+
+msgid "model"
+msgstr "modelo"
+
+msgid "models"
+msgstr "modelos"
+
+msgid "Mortuary"
+msgstr "Funeraria"
+
+msgid "name"
+msgstr "nombre"
+
+msgid "notes"
+msgstr "notas"
+
+msgid "overseer"
+msgstr "supervisor"
+
+msgid "overseers"
+msgstr "supervisores"
+
+msgid "payment address"
+msgstr "dirección de pago"
+
+msgid "phone"
+msgstr "teléfono"
+
+msgid "price"
+msgstr "precio"
+
+msgid "product"
+msgstr "producto"
+
+msgid "products"
+msgstr "productos"
+
+msgid "provider"
+msgstr "proveedor"
+
+msgid "providers"
+msgstr "proveedores"
+
+msgid "provider bill"
+msgstr "factura de proveedor"
+
+msgid "provider bills"
+msgstr "facturas de proveedores"
+
+msgid "sell price"
+msgstr "precio de venta"
+
+msgid "serial number"
+msgstr "número de serie"
+
+msgid "shooting line"
+msgstr "línea de tiro"
+
+msgid "shooting lines"
+msgstr "líneas de tiro"
+
+msgid "Shooting range"
+msgstr "Polígono de tiro"
+
+msgid "subtotal"
+msgstr "subtotal"
+
+msgid "taxes percentage"
+msgstr "porcentaje de impuestos"
+
+msgid "total to pay"
+msgstr "total a pagar"
+
+msgid "updated at"
+msgstr "Actualizado el"
